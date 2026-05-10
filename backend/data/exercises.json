@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "问候",
+    "audioUrl": "/audios/a1_01.mp3",
+    "question": "那个人叫什么名字？",
+    "options": ["Max", "Tom", "Lisa", "Klaus"],
+    "correctAnswer": 0,
+    "explanation": "在音频中，人物介绍自己是Max。"
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "颜色",
+    "audioUrl": "/audios/a1_02.mp3",
+    "question": "这个球是什么颜色的？",
+    "options": ["红色", "蓝色", "黄色", "绿色"],
+    "correctAnswer": 1,
+    "explanation": "音频中提到球是蓝色的（blau）。"
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "家庭",
+    "audioUrl": "/audios/a1_03.mp3",
+    "question": "他有多少个兄弟姐妹？",
+    "options": ["一个", "两个", "三个", "四个"],
+    "correctAnswer": 1,
+    "explanation": "音频中说他有两个兄弟姐妹。"
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "食物",
+    "audioUrl": "/audios/a1_04.mp3",
+    "question": "她最喜欢的水果是什么？",
+    "options": ["苹果", "香蕉", "橙子", "草莓"],
+    "correctAnswer": 2,
+    "explanation": "她说她最喜欢橙子（Orange）。"
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "数字",
+    "audioUrl": "/audios/a1_05.mp3",
+    "question": "今天是几号？",
+    "options": ["5号", "10号", "15号", "20号"],
+    "correctAnswer": 0,
+    "explanation": "音频中提到今天是第五号。"
+  },
+  {
+    "id": 6,
+    "level": "A2",
+    "title": "工作",
+    "audioUrl": "/audios/a2_01.mp3",
+    "question": "他在哪里工作？",
+    "options": ["医院", "学校", "银行", "餐厅"],
+    "correctAnswer": 2,
+    "explanation": "他说他在银行工作（Bank）。"
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "旅行",
+    "audioUrl": "/audios/a2_02.mp3",
+    "question": "她去年去过哪个国家？",
+    "options": ["法国", "西班牙", "意大利", "葡萄牙"],
+    "correctAnswer": 0,
+    "explanation": "她提到去年去过法国（Frankreich）。"
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "爱好",
+    "audioUrl": "/audios/a2_03.mp3",
+    "question": "他最喜欢的运动是什么？",
+    "options": ["足球", "篮球", "网球", "羽毛球"],
+    "correctAnswer": 0,
+    "explanation": "他说他最喜欢足球（Fußball）。"
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "购物",
+    "audioUrl": "/audios/a2_04.mp3",
+    "question": "这件衣服多少钱？",
+    "options": ["30欧元", "50欧元", "70欧元", "100欧元"],
+    "correctAnswer": 1,
+    "explanation": "销售员说这件衣服50欧元。"
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "天气",
+    "audioUrl": "/audios/a2_05.mp3",
+    "question": "明天的天气如何？",
+    "options": ["晴天", "下雨", "下雪", "多云"],
+    "correctAnswer": 1,
+    "explanation": "气象预报说明天会下雨（regnen）。"
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "现代技术",
+    "audioUrl": "/audios/b1_01.mp3",
+    "question": "根据对话，人工智能主要用于什么领域？",
+    "options": ["农业", "医疗诊断", "纺织业", "采矿"],
+    "correctAnswer": 1,
+    "explanation": "讨论中提到AI在医疗领域的应用，特别是诊断疾病。"
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "环境问题",
+    "audioUrl": "/audios/b1_02.mp3",
+    "question": "这段新闻主要讲的是什么？",
+    "options": ["气候变化", "塑料污染", "森林砍伐", "水资源短缺"],
+    "correctAnswer": 0,
+    "explanation": "新闻报道的重点是全球气候变暖的影响。"
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "文化交流",
+    "audioUrl": "/audios/b1_03.mp3",
+    "question": "访谈中的作者认为文化交流有什么作用？",
+    "options": ["增加商业机会", "促进相互理解", "提高语言技能", "扩大社交圈子"],
+    "correctAnswer": 1,
+    "explanation": "作者强调文化交流能够加深人与人之间的理解。"
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "教育改革",
+    "audioUrl": "/audios/b1_04.mp3",
+    "question": "在这个讨论中，教授建议如何改进教育系统？",
+    "options": ["增加考试数量", "加强实践教学", "减少作业量", "提高学费"],
+    "correctAnswer": 1,
+    "explanation": "教授指出更多的实践活动能提高学生的学习效果。"
+  },
+  {
+    "id": 15,
+    "level": "B1",
+    "title": "健康生活",
+    "audioUrl": "/audios/b1_05.mp3",
+    "question": "医生建议人们每天应该做多久的运动？",
+    "options": ["15分钟", "30分钟", "60分钟", "90分钟"],
+    "correctAnswer": 1,
+    "explanation": "医生推荐每天至少进行30分钟的中强度运动。"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "german-listening-practice",
+  "version": "1.0.0",
+  "description": "German listening practice platform for university students",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"cd backend && npm start\" \"cd frontend && npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "german",
+    "language",
+    "learning",
+    "listening"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "espeak-ng": "^1.0.2"
+  }
+}
