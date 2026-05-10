@@ -1,19 +1,21 @@
 #!/bin/bash
 set -e
 
+export NODE_ENV=development
+
 echo "Installing backend dependencies..."
 cd backend
-npm install
+npm ci
 cd ..
 
 echo "Installing frontend dependencies..."
 cd frontend
-npm install
+npm ci
 cd ..
 
 echo "Building frontend..."
 cd frontend
-npm run build
+npx vite build
 cd ..
 
 echo "Build complete!"
