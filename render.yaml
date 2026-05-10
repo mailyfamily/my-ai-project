@@ -3,8 +3,8 @@ services:
     name: german-listening-practice
     env: node
     plan: free
-    buildCommand: cd backend && npm install && cd ../frontend && npm install --production=false && npm run build
+    buildCommand: bash build.sh
     startCommand: cd backend && npm start
     envVars:
       - key: NODE_ENV
-        value: production
+        value: development
